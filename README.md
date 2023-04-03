@@ -13,7 +13,7 @@
 ### 2. ERC1155 NFTs
 
 - Collaborated with two other developers to create smart contracts for Stake DAO's ERC1155 NFTs. The cool thing about these NFTs was, they acted as entry tickets into strategies i.e. only people holding these NFTs were allowed to deposit inside few select strategies. NFTs were locked inside users' wallets once they entered a strategy, to avoid sybil attacks.
-- Enabled gamification of the platform by allowing users to stake SDT, earn points, redeem NFTs, and stake NFTs to earn $SDT rewards based on their overall involvement (deposits) on the platform.
+- Enabled gamification of the platform by allowing users to stake SDT, earn points, redeem NFTs, and stake NFTs to earn $SDT rewards based on their overall involvement (deposits) on the platform, using [DarkParadise.sol](https://github.com/StakeDAO/smart-contracts/blob/main/eth/nft/contracts/DarkParadise.sol)
 - Code at [Stake DAO's GitHub - NFT Contracts](https://github.com/StakeDAO/smart-contracts/tree/main/eth/nft).
 
 ### 3. Options Strategies
