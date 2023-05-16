@@ -26,5 +26,5 @@
 **Note**: Due to an NDA, I am unable to share the actual analysis. However, you can verify my involvement with Julien Bouteloup.
 
 - Conducted technical due diligence for various projects for approximately two months.
-- Notable investments made by Stake Capital Group during my involvement include Bluejay and one other project not yet listed on their public investments page.
+- Notable investments made by Stake Capital Group during my involvement include Bluejay and Metastreet (not yet listed on their public investments page).
 - More information on Stake Capital Group is available at [www.stake.capital](https://www.stake.capital/).
